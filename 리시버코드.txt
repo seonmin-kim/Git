@@ -15,6 +15,6 @@ public class MultipleInstallReceiver extends BroadcastReceiver {
         //IGAW 구글 인스톨 리시버 등록
         IgawReceiver igawReceiver = new IgawReceiver();
         igawReceiver.onReceive(context, intent);
-	// 여기서
+	// 여기서 test1 master
     }
 }
